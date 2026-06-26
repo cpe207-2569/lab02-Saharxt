@@ -16,7 +16,7 @@ body{
 }
 .Box{
     width: 700px;
-    border: 3px solid black;
+    border: 4px solid black;
     border-radius: 12px;
     margin-left: auto;
     margin-right: auto;
