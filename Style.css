@@ -1,0 +1,35 @@
+h1{
+    color: #901b2d;
+    text-align: center;
+}
+h3{
+    color: #901b2d;
+}
+.center{
+    text-align: center;
+}
+body{
+    background-color: cornsilk;
+}
+.pf{
+    border-radius: 20px;
+}
+.Box{
+    width: 700px;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+.Box-title{
+    font-size: 28px;
+}
+
+.font {
+  font-family: "Playpen Sans Thai", cursive;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
